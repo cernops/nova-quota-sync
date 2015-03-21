@@ -47,7 +47,7 @@ Bugs and Disclaimer
 -------------------
 Bugs? Oh, almost certainly.
 
-This tool was written to use in the CERN Cloud Infrastructure and 
+This tool was written to be used in the CERN Cloud Infrastructure and 
 it has been tested only in our environment.
 
 Since it updates nova DB use it with extremely caution.
