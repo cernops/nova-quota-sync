@@ -29,11 +29,11 @@ mode.
 Examples
 --------
 
-python nova-quota-sync --config my_nova.conf --all --no_sync 
+python nova-quota-sync --config my_nova.conf --all --no_sync
 
-python nova-quota-sync --config my_nova.conf 
+python nova-quota-sync --config my_nova.conf
 
-python nova-quota-sync --auto_sync 
+python nova-quota-sync --auto_sync
 
 python nova-quota-sync --all --no_sync --project_id "d945d5ce-cfb8-11e4-b9d6-1681e6b88ec1"
 
@@ -47,7 +47,7 @@ Bugs and Disclaimer
 -------------------
 Bugs? Oh, almost certainly.
 
-This tool was written to be used in the CERN Cloud Infrastructure and 
+This tool was written to be used in the CERN Cloud Infrastructure and
 it has been tested only in our environment.
 
-Since it updates nova DB use it with extremely caution.
+Since it updates nova DB use it with extreme caution.
